@@ -23,5 +23,3 @@ Global
 	EndGlobalSection
 EndGlobal
 
-
-
