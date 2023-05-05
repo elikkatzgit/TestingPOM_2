@@ -11,7 +11,7 @@
     <PackageReference Include="Dapper.SqlBuilder" Version="1.60.1" />
     <PackageReference Include="Lib.Scout" Version="1.0.24" />
     <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.5" />
-    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="2.19.3" />
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="2.19.180" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="Filters\StatementSearchOperations.cs" />
